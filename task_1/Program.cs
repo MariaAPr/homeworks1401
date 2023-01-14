@@ -13,5 +13,5 @@ void kekDegree(int a, int b)
     {
         result = result * a;
     }
-    Console.WriteLine(a + " в степени " + b + " = " + result);
+    Console.WriteLine(result);
 }
